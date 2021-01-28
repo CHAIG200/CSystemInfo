@@ -11,7 +11,7 @@
   "author": "Chris Haig",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^4.1.1"
+    "electron": "^9.4.0"
   },
   "dependencies": {
     "electron-packager": "^13.1.1",
